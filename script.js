@@ -12,10 +12,10 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: 'card2', img: 'images/girl.jpg' },
         { name: 'card3', img: 'images/los.jpg' },
         { name: 'card3', img: 'images/los.jpg' },
-        { name: 'card4', img: 'images/masterpiece.jpg' },
-        { name: 'card4', img: 'images/masterpiece.jpg' },
-        { name: 'card5', img: 'images/alright.jpg' },
-        { name: 'card5', img: 'images/alright.jpg' },
+        { name: 'card4', img: 'images/Masterpiece.jpg' },
+        { name: 'card4', img: 'images/Masterpiece.jpg' },
+        { name: 'card5', img: 'images/Alright.jpg' },
+        { name: 'card5', img: 'images/Alright.jpg' },
         // ...add more pairs as needed
     ];
 
